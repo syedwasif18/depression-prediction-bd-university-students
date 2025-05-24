@@ -1,5 +1,7 @@
 # depression-prediction-bd-university-students
 A research project using predictive analytics to detect depression from social media usage patterns among students.
+
+
 Abstract 
 Purpose: Social media’s growing popularity and usage has raised concerns about how it may affect mental health, especially for university students. The study aims to identify the core aspects associated with social media that may cause depression among university students who uses social media in Bangladesh using machine learning models. 
 Design/methodology/approach: The research primarily uses the quantitative approach, where primary data is collected from 490 respondents using a survey questionnaire. Participants for the study are selected using the convenient sampling method. CES-D, as well as PHQ-9 scales, are utilized to predict depression in the respondents. The research considers supervised machine learning techniques to identify the key predictors associated with depression. To assess the feature importance, SHAP values as well as Permutation Importance is considered in the research. 
